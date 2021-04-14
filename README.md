@@ -2,7 +2,7 @@ tomado originalmente de este repositorio:
 
 https://github.com/salihozdemir/stackoverflow-clone
 
-como ejemplo practico para la implementación de los servicios de una nube GCP y de un cluster Kubernetes conteniendo aplicación web.
+como ejemplo practico para la implementación de los servicios de una nube GCP y de un cluster Kubernetes conteniendo esta aplicación web.
 
 ## Stackoverflow Clone
  - Live: http://clone-of-stackoverflow.vercel.app/
