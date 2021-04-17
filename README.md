@@ -4,8 +4,8 @@ https://github.com/salihozdemir/stackoverflow-clone
 
 como ejemplo practico para la implementación de los servicios de una nube GCP y de un cluster Kubernetes conteniendo esta aplicación web.
 
-## Stackoverflow Clone
- - Live: http://clone-of-stackoverflow.vercel.app/
+## Stackoverflow Clone Desde kubernetes
+ - Live: http://34.74.193.173/
 
 This project is a simplified a full stack clone of Stackoverflow. I wrote it to learn more about Nodejs, React/Next, pixel perfect design and NoSQL databases in general. Feel free to contribute!
 
