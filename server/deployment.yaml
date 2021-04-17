@@ -19,13 +19,8 @@ spec:
       containers:
       - name: node
         image: us.gcr.io/proyectogchome/serverclonestackoverflow
-        env:
-        - name: NODE_ENV
-          value: development
-        - name: PORT
-          value: "8080"
         ports:
-        - containerPort: 80
+        - containerPort: 8080
         volumeMounts:
           - name: vol
             mountPath: /usr/src/app/uploads
@@ -47,5 +42,5 @@ spec:
   ports:
     - protocol: TCP
       port: 80
-      targetPort: 80
+      targetPort: 8080
   type: ClusterIP
